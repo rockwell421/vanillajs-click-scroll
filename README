@@ -1,0 +1,3 @@
+This function is a modern Vanillajs approach to jumping to the next section from a click event. Normally this has been done wiht JQuery, however modern JS enables us to do this with optimal performance.
+
+Note: there is ES2015 syntax so you will need to compile it with Babel.
